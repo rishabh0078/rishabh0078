@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh</h1>
-<h3 align="center">Full Stack Developer | React | Node | Building cool products</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 ---
 
@@ -32,29 +32,8 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabh0078&show_icons=true&theme=tokyonight)
-
----
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight)
 
----
 
-## 📈 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
-
----
-
-## ⚡ Fun Section
-
-```javascript
-const rishabh = {
-  code: ["JavaScript", "Python"],
-  tools: ["React", "Node", "Express", "MongoDB"],
-  interests: ["Startups", "AI", "Building Products"],
-};
