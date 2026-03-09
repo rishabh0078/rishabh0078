@@ -12,7 +12,7 @@
   <a href="https://twitter.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white" />
   </a>
-  &nbsp;
+  
   <a href="https://https://portfolio-website-two-beta-66.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white" />
   </a>
@@ -92,5 +92,3 @@
   <em>Thanks for visiting! If you like my work, consider giving a ⭐ to my repos.</em>
 </p>
 
-
-https://github-readme-activity-graph.vercel.app/graph?username=rishabh0078&theme=minimal&hide_border=true&area=true
