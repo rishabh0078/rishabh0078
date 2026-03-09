@@ -22,12 +22,12 @@
 
 ## About Me
 
-- 🔭 Full Stack Developer specializing in the **MERN Stack**
-- 🚀 Built multiple **real-world projects** from scratch to deployment
-- 🔐 Actively contributing to **private client & personal projects**
-- 🌱 Currently exploring **[something you're learning, e.g. DevOps / TypeScript / Next.js]**
-- 💬 Ask me about **React, Node.js, MongoDB, Express, REST APIs**
-- 📫 Reach me at **[your@email.com]**
+-  Full Stack Developer specializing in the **MERN Stack**
+-  Built multiple **real-world projects** from scratch to deployment
+-  Actively contributing to **private client & personal projects**
+-  Currently exploring **[something you're learning, e.g. DevOps / TypeScript / Next.js]**
+-  Ask me about **React, Node.js, MongoDB, Express, REST APIs**
+-  Reach me at **rishabhchaudhary058@gmail.com**
 
 ---
 
@@ -58,34 +58,8 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
+
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-
----
-
-## Projects
-
-### 🔹 [Project Name 1](https://github.com/YOUR_USERNAME/project-1)
-> Short one-line description of what this project does.
-
-**Tech used:** React, Node.js, MongoDB, Express  
-🔗 [Live Demo](https://your-live-link.com) · 📁 [Repo](https://github.com/YOUR_USERNAME/project-1)
-
----
-
-### 🔹 [Project Name 2](https://github.com/YOUR_USERNAME/project-2)
-> Short one-line description of what this project does.
-
-**Tech used:** Next.js, TailwindCSS, MongoDB  
-🔗 [Live Demo](https://your-live-link.com) · 📁 [Repo](https://github.com/YOUR_USERNAME/project-2)
-
----
-
-### 🔹 [Project Name 3](https://github.com/YOUR_USERNAME/project-3)
-> Short one-line description of what this project does.
-
-**Tech used:** React, Express, MySQL  
-🔗 [Live Demo](https://your-live-link.com) · 📁 [Repo](https://github.com/YOUR_USERNAME/project-3)
 
 ---
 
@@ -117,3 +91,6 @@
 <p align="center">
   <em>Thanks for visiting! If you like my work, consider giving a ⭐ to my repos.</em>
 </p>
+
+
+https://github-readme-activity-graph.vercel.app/graph?username=rishabh0078&theme=minimal&hide_border=true&area=true
