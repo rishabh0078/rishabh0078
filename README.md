@@ -57,15 +57,6 @@
 
 ---
 
-## Connect With Me
-
-<p>
-  <a href="https://linkedin.com/in/YOUR_USERNAME">LinkedIn</a> ·
-  <a href="https://https://portfolio-website-two-beta-66.vercel.app/">Portfolio</a>
-</p>
-
----
-
 <p align="center">
   <em>Thanks for visiting! If you like my work, consider giving a ⭐ to my repos.</em>
 </p>
