@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/rishabh-chaudhary-4b9099282/">
+  <a href="https://www.linkedin.com/in/rishabh-chaudhary-4b9099282/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="https://https://portfolio-website-two-beta-66.vercel.app/">
+  &nbsp;&nbsp;
+  <a href="https://portfolio-website-two-beta-66.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white" />
   </a>
 </p>
@@ -21,8 +21,6 @@
 -  Full Stack Developer specializing in the **MERN Stack**
 -  Built multiple **real-world projects** from scratch to deployment
 -  Actively contributing to **private client & personal projects**
--  Currently exploring **[something you're learning, e.g. DevOps / TypeScript / Next.js]**
--  Ask me about **React, Node.js, MongoDB, Express, REST APIs**
 -  Reach me at **rishabhchaudhary058@gmail.com**
 
 ---
