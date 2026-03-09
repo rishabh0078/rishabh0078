@@ -9,10 +9,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://twitter.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white" />
-  </a>
-  
   <a href="https://https://portfolio-website-two-beta-66.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white" />
   </a>
@@ -58,23 +54,8 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
-
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true" width="40%" />
-</p>
-
-> Private contributions are included in the stats above. To enable this on your profile, go to **GitHub Settings → Privacy → Show private contributions**.
 
 ---
 
@@ -82,8 +63,7 @@
 
 <p>
   <a href="https://linkedin.com/in/YOUR_USERNAME">LinkedIn</a> ·
-  <a href="https://twitter.com/YOUR_USERNAME">Twitter</a> ·
-  <a href="https://YOUR_PORTFOLIO.com">Portfolio</a>
+  <a href="https://https://portfolio-website-two-beta-66.vercel.app/">Portfolio</a>
 </p>
 
 ---
