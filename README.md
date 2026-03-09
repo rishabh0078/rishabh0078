@@ -3,7 +3,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🌱 Currently improving **DSA & Backend Development**
 - 💻 Working with **React, Node.js, Express**
@@ -12,7 +12,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/YOUR-LINK"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
@@ -34,7 +34,7 @@
 
 ## 📊 GitHub Stats
 
-![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabh0078&show_icons=true&theme=tokyonight)
 
 ---
 
