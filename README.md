@@ -5,7 +5,7 @@
 Rishabh Chaudhary
 
 > role
-Full Stack Developer • AI Engineer
+Full Stack Developer • Generative AI
 
 > building
 LLM Apps • RAG Systems • Intelligent Products
